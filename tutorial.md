@@ -1,0 +1,31 @@
+---
+layout: page
+title: Що до чого
+permalink: /tutorial
+---
+
+###  Як все працює?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a egestas diam. Sed id rutrum turpis. Ut non magna at mi fermentum tincidunt sed ac nulla. Duis blandit tempor tincidunt. Praesent vel neque vitae erat rhoncus laoreet. Mauris iaculis at dui eget tincidunt. Aenean vitae molestie massa. Suspendisse accumsan mi ut nulla fermentum, in finibus nunc aliquet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec sagittis diam nec ultricies imperdiet.
+
+Nunc auctor elit felis, eget auctor urna elementum sed. Donec ultrices tincidunt lorem, eget porta mauris laoreet eleifend. Aliquam erat volutpat. Aliquam nulla lectus, ullamcorper vel pulvinar in, malesuada viverra magna. Sed euismod iaculis enim. Etiam quis ipsum velit. Praesent tristique accumsan dui, sit amet consectetur nisi. Morbi at ipsum ac turpis ultricies fermentum ut sed eros. Vestibulum rutrum pulvinar nibh ut scelerisque. Quisque mattis eleifend vehicula. Sed efficitur arcu magna, quis hendrerit lorem bibendum sed. Donec bibendum dictum erat. Suspendisse urna nisi, varius non nisi sed, lacinia venenatis enim.
+
+Morbi a lectus enim. Phasellus vestibulum nisl in lacus maximus, id molestie augue facilisis. Ut fermentum elit velit, mattis lobortis nisi commodo ut. Mauris odio eros, scelerisque id velit vitae, iaculis ultrices nunc. Sed rutrum convallis lectus egestas auctor. Cras imperdiet aliquam massa. Praesent mattis mollis est, non pellentesque arcu commodo at. Vivamus laoreet, sem in rhoncus hendrerit, lorem purus dictum justo, ac condimentum dui metus et leo. Vestibulum vel urna nec odio sagittis sollicitudin. Proin sollicitudin varius rutrum.
+
+Aenean commodo id sapien eget lobortis. Nulla in sollicitudin ligula. Vivamus nec ligula eros. Aliquam est purus, facilisis at tellus sit amet, finibus rutrum arcu. Sed sodales arcu ut mauris mattis dictum. Mauris malesuada aliquet massa sit amet mattis. In vestibulum, ex sed iaculis ultrices, ligula leo tempus ante, nec consectetur tortor odio sed lacus. Donec varius, augue et aliquet sagittis, mi libero interdum quam, eget lacinia massa sapien eu diam.
+
+Sed diam turpis, aliquet ut ultricies et, imperdiet vitae dui. Morbi egestas purus non quam dapibus fringilla. Proin molestie nunc interdum velit placerat bibendum. Ut aliquam auctor sapien a efficitur. Cras vel imperdiet quam. Sed tellus elit, efficitur eget ligula vel, egestas ullamcorper lorem. Cras vehicula lobortis lectus sed mattis. Donec viverra non orci vitae suscipit. Curabitur id erat non lacus convallis dapibus. Vestibulum rutrum cursus leo eget pellentesque. Phasellus dictum elit dictum placerat porta.
+
+
+### some thing else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac erat facilisis, eleifend ante eu, fringilla tortor. Phasellus sed magna ac eros pellentesque consequat. Ut quis pharetra nunc. Nunc non suscipit odio. Mauris volutpat dui sem, in suscipit turpis sagittis eget. Sed sodales porttitor bibendum. Praesent mattis euismod ex vel faucibus. In et ultricies lacus.
+
+Aenean sit amet purus pulvinar, commodo ligula ut, porta risus. Nulla nisi sem, tempor at justo ut, pellentesque efficitur leo. Pellentesque commodo libero dapibus, pulvinar odio ac, pulvinar elit. Quisque ullamcorper justo ligula, a iaculis neque sagittis nec. Phasellus ullamcorper scelerisque neque, vitae eleifend augue pretium ut. Nam ut tortor ipsum. Sed sollicitudin semper enim vel varius. Nunc laoreet tellus ut ligula placerat, vitae faucibus odio suscipit. Aenean fringilla sit amet eros a blandit. Fusce velit lectus, facilisis sit amet velit ut, rhoncus malesuada ante. Curabitur sit amet iaculis felis. Phasellus gravida sagittis tellus. Donec quam tellus, eleifend sed bibendum id, facilisis id sem. Nunc vehicula velit nec euismod ultrices. Cras porta sem a mauris pretium, nec maximus justo dictum. Curabitur vitae purus non velit convallis varius eu at leo.
+
+Quisque nec mauris at orci scelerisque varius. Aenean sit amet lorem lectus. Suspendisse tortor nisl, sagittis nec lectus in, placerat congue est. Pellentesque laoreet odio nibh, nec cursus turpis porta eu. Donec eu augue ac lacus aliquet finibus. Proin nisi libero, sollicitudin vitae libero eu, ornare sodales elit. Ut rhoncus ullamcorper leo nec vulputate. Nullam mi diam, dictum ac sapien nec, lobortis lacinia felis. Duis placerat elementum eros ut sodales. Quisque laoreet eros erat, non pulvinar leo condimentum efficitur. Sed vel lectus et massa aliquam suscipit id nec tortor. Nulla luctus mattis facilisis. Duis fringilla ac urna vitae placerat. Etiam maximus enim vitae tortor volutpat viverra.
+
+Nunc tortor lacus, imperdiet sed tellus a, porta luctus metus. Phasellus suscipit, lacus a tincidunt tempus, elit elit laoreet sapien, in commodo magna orci faucibus lectus. Quisque vitae arcu hendrerit, egestas ligula in, efficitur ligula. Duis nunc dolor, vehicula sed dolor lobortis, congue euismod dui. Nullam laoreet gravida purus, et porttitor lectus volutpat non. Cras quis enim sodales, semper justo vel, suscipit felis. Nulla scelerisque ante non tempus sollicitudin. Nam eget varius magna. Vivamus quis massa vel tellus scelerisque varius. Praesent pulvinar, lorem eu volutpat iaculis, ex quam eleifend ante, quis eleifend sapien lorem et enim. Sed pretium ac augue vitae auctor. Nulla placerat, arcu ut egestas interdum, erat neque porttitor ligula, et porttitor est nulla et arcu. Maecenas elementum nunc sem, dapibus tincidunt sem finibus id. Sed vel nibh bibendum, dignissim enim quis, suscipit magna. Quisque sit amet maximus sapien, nec sollicitudin elit.
+
+Morbi maximus ac nisl rhoncus faucibus. Cras diam nisl, gravida semper vehicula sed, congue vitae lacus. Sed accumsan dictum commodo. Donec turpis urna, vestibulum a tellus sit amet, placerat mattis turpis. Integer lobortis erat sapien, ut tristique elit suscipit a. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam ut feugiat orci. Nulla malesuada gravida enim, eget auctor nunc ultricies non. Quisque suscipit non dui sodales auctor. Fusce mattis lacus magna, suscipit porttitor dui efficitur eu. Integer laoreet scelerisque urna, congue mollis neque cursus eget. Nullam nec leo lacus.
+
